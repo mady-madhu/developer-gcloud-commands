@@ -12,5 +12,9 @@ developer-gcloud-commands
 ** for login **
 - gcloud auth login
 
+** You are now logged in as <email address>.
+You can change this setting by running:
+- gcloud config set project PROJECT_ID
+
 ** for logout **
 - gcloud auth revoke
